@@ -1,1 +1,1 @@
-# Project Sample [![Build Status](https://travis-ci.org/azatmagdeev/cashback-domashka.svg?branch=master)](https://travis-ci.org/azatmagdeev/cashback-domashka)
+# Project Sample [![Build Status](https://travis-ci.org/azatmagdeev/cashback-domashka.svg?branch=master)](https://travis-ci.org/azatmagdeev/cashback-domashka) [![codecov](https://codecov.io/gh/azatmagdeev/cashback-domashka/branch/master/graph/badge.svg)](https://codecov.io/gh/azatmagdeev/cashback-domashka)
